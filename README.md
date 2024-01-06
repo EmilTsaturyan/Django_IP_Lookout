@@ -26,8 +26,14 @@
  ```
  git clone https://github.com/EmilTsaturyan/Django_IP_Lookout.git
  ```
-- Install Dependencies: pip install -r requirements.txt
-- Run the Application: python manage.py runserver
+- Install Dependencies:
+ ```
+ pip install -r requirements.txt
+ ```
+- Run the Application:
+ ```
+ python manage.py runserver
+ ``` 
 - Access the App: Visit http://localhost:8000 in your browser.
 
 ##
