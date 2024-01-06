@@ -11,11 +11,13 @@
 ### User-Friendly Interface: Intuitive design for easy navigation and understanding.
 
 
+
 ## Technologies Used:
 
 ### Django: Backend framework for Python-based web development.
 ### IPinfo API: Integration for gathering IP-related information.
 ### HTML/CSS: Frontend design for a visually appealing interface.
+
 
 
 ## Getting Started:
@@ -26,11 +28,13 @@
 ### Access the App: Visit http://localhost:8000 in your browser.
 
 
+
 ## How to Contribute:
 
 ### Fork the repository and create a new branch.
 ### Make your enhancements or fixes.
 ### Submit a pull request, detailing the changes made.
+
 
 
 ## Future Improvements:
