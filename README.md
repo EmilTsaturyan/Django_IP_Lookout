@@ -1,7 +1,7 @@
 # IP Information Viewer with Django
 
 ## This Django-based web application serves as an IP information viewer, providing comprehensive details about any given IP address. The project leverages Django's robust framework to fetch and display key information related to an IP address.
-##
+
 
 ## Features:
 
@@ -22,7 +22,10 @@
 
 ## Getting Started:
 
-- Clone the Repository: git clone https://github.com/EmilTsaturyan/Django_IP_Lookout.git
+- Clone the Repository:
+ ```
+ git clone https://github.com/EmilTsaturyan/Django_IP_Lookout.git
+ ```
 - Install Dependencies: pip install -r requirements.txt
 - Run the Application: python manage.py runserver
 - Access the App: Visit http://localhost:8000 in your browser.
