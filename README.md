@@ -65,6 +65,6 @@
 
 ## Future Improvements:
 
-### Implementation of additional data visualization for IP details.
-### Integration of more APIs to enrich information.
-### Enhanced error handling and input validation.
+- Implementation of additional data visualization for IP details.
+- Integration of more APIs to enrich information.
+- Enhanced error handling and input validation.
