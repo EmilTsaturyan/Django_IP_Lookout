@@ -5,35 +5,35 @@
 
 ## Features:
 
-### IP Lookup: Enter any IP address to retrieve detailed information.
-### Geolocation: View geographical details such as country, region, city, and coordinates.
-### Network Details: Explore network-related data like ISP, organization, and ASN.
-### User-Friendly Interface: Intuitive design for easy navigation and understanding.
+- IP Lookup: Enter any IP address to retrieve detailed information.
+- Geolocation: View geographical details such as country, region, city, and coordinates.
+- Network Details: Explore network-related data like ISP, organization, and ASN.
+- User-Friendly Interface: Intuitive design for easy navigation and understanding.
 
 
 
 ## Technologies Used:
 
-### Django: Backend framework for Python-based web development.
-### IPinfo API: Integration for gathering IP-related information.
-### HTML/CSS: Frontend design for a visually appealing interface.
+- Django: Backend framework for Python-based web development.
+- IPinfo API: Integration for gathering IP-related information.
+- HTML/CSS: Frontend design for a visually appealing interface.
 
 
 
 ## Getting Started:
 
-### Clone the Repository: git clone https://github.com/EmilTsaturyan/Django_IP_Lookout.git
-### Install Dependencies: pip install -r requirements.txt
-### Run the Application: python manage.py runserver
-### Access the App: Visit http://localhost:8000 in your browser.
+- Clone the Repository: git clone https://github.com/EmilTsaturyan/Django_IP_Lookout.git
+- Install Dependencies: pip install -r requirements.txt
+- Run the Application: python manage.py runserver
+- Access the App: Visit http://localhost:8000 in your browser.
 
 
 
 ## How to Contribute:
 
-### Fork the repository and create a new branch.
-### Make your enhancements or fixes.
-### Submit a pull request, detailing the changes made.
+- Fork the repository and create a new branch.
+- Make your enhancements or fixes.
+- Submit a pull request, detailing the changes made.
 
 
 
