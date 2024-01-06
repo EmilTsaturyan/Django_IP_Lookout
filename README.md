@@ -1,7 +1,7 @@
 # IP Information Viewer with Django
 
 ## This Django-based web application serves as an IP information viewer, providing comprehensive details about any given IP address. The project leverages Django's robust framework to fetch and display key information related to an IP address.
-
+##
 
 ## Features:
 
@@ -10,7 +10,7 @@
 - Network Details: Explore network-related data like ISP, organization, and ASN.
 - User-Friendly Interface: Intuitive design for easy navigation and understanding.
 
-
+##
 
 ## Technologies Used:
 
@@ -18,7 +18,7 @@
 - IPinfo API: Integration for gathering IP-related information.
 - HTML/CSS: Frontend design for a visually appealing interface.
 
-
+##
 
 ## Getting Started:
 
@@ -27,7 +27,7 @@
 - Run the Application: python manage.py runserver
 - Access the App: Visit http://localhost:8000 in your browser.
 
-
+##
 
 ## How to Contribute:
 
@@ -35,7 +35,7 @@
 - Make your enhancements or fixes.
 - Submit a pull request, detailing the changes made.
 
-
+##
 
 ## Future Improvements:
 
