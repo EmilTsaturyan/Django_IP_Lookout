@@ -13,7 +13,7 @@
 ##
 
 ## Technologies Used:
-
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css)](https://skillicons.dev)
 - Django: Backend framework for Python-based web development.
 - IPinfo API: Integration for gathering IP-related information.
 - HTML/CSS: Frontend design for a visually appealing interface.
